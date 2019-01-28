@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class smashModule {
+public class Duplicate {
   public static void main(String []args){
    System.out.println("app init");
    
